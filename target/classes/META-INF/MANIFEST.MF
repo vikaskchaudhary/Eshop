@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: AuthAppUtility
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Vikas.Chaudhary
+Implementation-Vendor-Id: com.authentication
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/AuthAppUtili
+ ty/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
